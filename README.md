@@ -2,7 +2,7 @@
 A repository for input data-set used for workshop and related Jupyter Notebook.
 
 Installation on Windows
-lease refer to [Tutorial](https://github.com/santoshdhubia/Python_Workshop/edit/master) for Installation of Python through Anaconda 
+lease refer to [Tutorial](https://github.com/santoshdhubia/Python_Workshop/blob/master/Python%20Windows%20Installation%20Tutorial.pdf) for Installation of Python through Anaconda 
 
 Input Data-set
 1) Python_Packages.txt - Used for demo of reading text file in python
