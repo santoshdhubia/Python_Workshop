@@ -1,0 +1,10 @@
+NumPy - N-dimensional array for numerical computation 
+SciPy  - Scientific computing library for Python 
+Matplotlib - 2D Plotting library for Python 
+Pandas -  Powerful Python data structures and data analysis toolkit 
+Seaborn  - Statistical graphics library for Python 
+Bokeh - Interactive web visualization library 
+Scikit-Learn - Stable Python modules for machine learning and data mining 
+NLTK - Natural language toolkit 
+Jupyter Notebook - Web app that allows you to create and share documents that contain live code, equations, visualizations and explanatory text 
+R essentials - 80+ of the most used R packages for data science
