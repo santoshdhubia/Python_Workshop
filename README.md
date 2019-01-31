@@ -11,3 +11,6 @@ Please refer to [Tutorial](https://github.com/santoshdhubia/Python_Workshop/blob
 
 ## **Jupyter Notebooks**
 Notebooks used in the workshop (Day-wise) will be uploaded here for reference
+
+### **Day1**
+[First_notebook](https://github.com/santoshdhubia/Python_Workshop/blob/master/Day-1/Ftrst_Notebook.ipynb) for getting started with Jupyter Notebook
