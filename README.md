@@ -16,3 +16,20 @@ Notebooks used in the workshop (Day-wise) will be uploaded here for reference
 
 ### **Day1**
 [First_notebook](https://github.com/santoshdhubia/Python_Workshop/blob/master/Day-1/Ftrst_Notebook.ipynb) for getting started with Jupyter Notebook
+
+### **Day2**
+Note-books for Day-2 are listed below :
+#### [Tweet Downdloader](https://github.com/santoshdhubia/Python_Workshop/blob/master/Day-2/Tweets_Analysis.ipynb) for setting up the twitter API with keys and token in [config](https://github.com/santoshdhubia/Python_Workshop/blob/master/Day-2/config.py) file and writing the collected tweets in CSV file.
+#### [Tweet Analysis](https://github.com/santoshdhubia/Python_Workshop/blob/master/Day-2/Tweets_Analysis.ipynb) for reading the tweets collected in CSV file, it's analysis and wordcloud creation.
+#### [Sentiment Analysis](https://github.com/santoshdhubia/Python_Workshop/blob/master/Day-2/Sentiment_Analysis.ipynb) of the collceted tweets using VADER
+
+### **Day3**
+Note-books for Day-3 are listed below :
+
+#### [Notebook for Excersice-1](https://github.com/santoshdhubia/Python_Workshop/blob/master/Day-3/exercise1.ipynb) and [wordcloud](https://github.com/santoshdhubia/Python_Workshop/blob/master/Day-3/Wrodcloud_any_text.ipynb) clreation from any text file.
+#### [Movie Review](https://github.com/santoshdhubia/Python_Workshop/blob/master/Day-3/Movie_Review_Sentiment_Analysis.ipynb) analysis and it's classification using Logistic Regression
+
+## To be done
+I will update all the with citation soon...
+
+
