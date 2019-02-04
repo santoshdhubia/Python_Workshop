@@ -31,7 +31,10 @@ Note-books for Day-3 are listed below :
 #### [Notebook for Excersice-1](https://github.com/santoshdhubia/Python_Workshop/blob/master/Day-3/exercise1.ipynb) and [wordcloud](https://github.com/santoshdhubia/Python_Workshop/blob/master/Day-3/Wrodcloud_any_text.ipynb) creation from any text file.
 #### [Movie Review](https://github.com/santoshdhubia/Python_Workshop/blob/master/Day-3/Movie_Review_Sentiment_Analysis.ipynb) analysis (as mentioned in [3]) and it's classification using Logistic Regression
 
+
+
+
 ## To be done
-I will update all the with citation soon...
+I will update all the note-books and input data with citation soon...
 
 
